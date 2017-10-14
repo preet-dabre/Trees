@@ -1,4 +1,4 @@
 # Trees
 Various Tree codes
-Repository for dataStructure tree codes in C
+<br>Repository for dataStructure tree codes in C</br>
 *Currently consists only AVL tree*
