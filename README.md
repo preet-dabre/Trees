@@ -4,3 +4,4 @@ Various Tree codes
 <br>*Currently consists only AVL tree(full operations) (main.c)*
 <br>*Btree with insertion search and traversal (Btree.c)*
 <br>*B+tree with insertion search and traversal(B+tree.c)*
+<br>*Complete Heap structure. MIN Heap and Max Heap with Heap_Sort*
